@@ -1,0 +1,6 @@
+ul.nav {
+  padding-inline-start: 0;
+}
+ul.nav li {
+  display: inline-block;
+}
